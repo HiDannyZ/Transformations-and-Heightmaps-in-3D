@@ -1,7 +1,7 @@
 # Transformations-and-Heightmaps-in-3D
-Project 1 of CMPSC 458: computer graphics
-
 ## Disclaimer!
+
+  I am unfortunately not able to share this code due to academic integerity. However, I am able to share the executable and media files, so any interested people are able to run the application themselves
 
 ### Software Used
 
