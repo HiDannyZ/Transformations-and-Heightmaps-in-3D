@@ -5,10 +5,15 @@
   
 ##  Preamble
 Press the following keys U,I,O to increase transformationn
+
 Press the following keys J,K,L to decrease transformations
+
 Key alone will alter rotation rate
+
 Shift+Key will alter scale
+
 Control+Key will alter translation
+
 Pressing G will reset transformations
 
 ## How to Run the Program:
