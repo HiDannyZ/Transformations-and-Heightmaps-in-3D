@@ -25,7 +25,9 @@ Pressing G will reset transformations
 
 ## How to Run the Program:
   Download the Project_1.rar
+  
   KEEP ALL FILE NAMES THE SAME and the same order.
+  
   Double-click Project1.exe. 
 
 ### Youtube Video
