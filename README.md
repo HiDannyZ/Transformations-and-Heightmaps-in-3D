@@ -11,17 +11,33 @@
 - Transformations of the cube
 
 ##  Preamble
-Press the following keys U,I,O to increase transformationn
+Press T to get on the track and press again to get off track
 
-Press the following keys J,K,L to decrease transformations
+Press the U,I,O to increase transformations
 
-Key alone will alter rotation rate
+Press the J,K,L to decrease transformations
 
 Shift+Key will alter scale
 
 Control+Key will alter translation
 
+Key along will alter rotation rate
+
+Pressing Comma will increase transformation Step
+
+Pressing Period will decrease transformation Step
+
 Pressing G will reset transformations
+
+Pressing Q will toggle Quaternion Rotation
+
+Pressing B will toggle reflections for the box textures
+
+Pressing H will toggle heightmap
+
+Pressing N will toggle Normals
+
+Pressing P will print information
 
 ## How to Run the Program:
   Download the Project_1.rar
