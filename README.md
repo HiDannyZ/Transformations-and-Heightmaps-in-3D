@@ -10,6 +10,9 @@
 - HeightMap
 - Transformations of the cube
 
+### Youtube Video
+[![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
+
 ##  Preamble
 Press T to get on the track and press again to get off track
 
@@ -45,9 +48,6 @@ Pressing P will print information
   KEEP ALL FILE NAMES THE SAME and the same order.
   
   Double-click Project1.exe. 
-
-### Youtube Video
-[![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
 
 ### Software Used
 OpenGL and Microsoft Visual Studios C++.
