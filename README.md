@@ -54,3 +54,6 @@ OpenGL and Microsoft Visual Studios C++.
 
 ## Author
 Me: Danny Zhu
+
+# Source for SkyBox Texture
+http://www.custommapmakers.org/skyboxes.php
