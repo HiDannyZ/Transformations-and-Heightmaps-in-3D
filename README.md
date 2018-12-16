@@ -2,6 +2,9 @@
 
 ## Disclaimer!
   I am unfortunately not able to share this source code due to academic integerity. However, I am able to share the executable and media files, so any interested people are able to run the application themselves. 
+  
+### Youtube Video
+[![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
 
 ## Things I Implemented:
 
@@ -9,9 +12,6 @@
 - Texture on Cubes
 - HeightMap
 - Transformations of the cube
-
-### Youtube Video
-[![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
 
 ##  Preamble
 Press T to get on the track and press again to get off track
