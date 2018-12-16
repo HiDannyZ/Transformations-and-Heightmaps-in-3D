@@ -6,7 +6,7 @@
 ### Youtube Video
 [![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
 
-# Contact for any Questions
+## Contact for any Questions
 - Danny Zhu
   - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
   - chdannyzhu@yahoo.com
@@ -19,6 +19,16 @@
 - Texture on Cubes
 - HeightMap
 - Transformations of the cube
+
+## How to Run the Program:
+  Download the Project_1.rar
+  
+  KEEP ALL FILE NAMES THE SAME and the same order.
+  
+  Double-click Project1.exe. 
+
+### Software Used
+OpenGL and Microsoft Visual Studios C++.
 
 ##  Preamble
 Press T to get on the track and press again to get off track
@@ -48,16 +58,6 @@ Pressing H will toggle heightmap
 Pressing N will toggle Normals
 
 Pressing P will print information
-
-## How to Run the Program:
-  Download the Project_1.rar
-  
-  KEEP ALL FILE NAMES THE SAME and the same order.
-  
-  Double-click Project1.exe. 
-
-### Software Used
-OpenGL and Microsoft Visual Studios C++.
 
 # Source for SkyBox Texture
 http://www.custommapmakers.org/skyboxes.php
