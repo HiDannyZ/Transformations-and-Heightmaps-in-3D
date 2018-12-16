@@ -13,12 +13,12 @@
   
   
 
-## Things I Implemented:
+## Features
 
 - SkyBox
 - Texture on Cubes
 - HeightMap
-- Transformations of the cube
+- Transformations of the cube through matrix manipulation 
 
 ## How to Run the Program:
   Download the Project_1.rar
