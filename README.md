@@ -6,6 +6,11 @@
 ### Youtube Video
 [![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
 
+# Contact for any Questions
+Danny Zhu
+  - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
+  
+
 ## Things I Implemented:
 
 - SkyBox
@@ -51,9 +56,6 @@ Pressing P will print information
 
 ### Software Used
 OpenGL and Microsoft Visual Studios C++.
-
-## Author
-Me: Danny Zhu
 
 # Source for SkyBox Texture
 http://www.custommapmakers.org/skyboxes.php
