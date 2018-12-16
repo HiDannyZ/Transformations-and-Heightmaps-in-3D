@@ -9,6 +9,8 @@
 # Contact for any Questions
 - Danny Zhu
   - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
+  - chdannyzhu@yahoo.com
+  
   
 
 ## Things I Implemented:
