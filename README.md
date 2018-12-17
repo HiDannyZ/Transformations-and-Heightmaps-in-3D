@@ -28,9 +28,8 @@
   Double-click Project1.exe. 
 
 ## Software Used
--OpenGL
-
--Microsoft Visual Studios C++.
+- OpenGL
+- Microsoft Visual Studios C++.
 
 ##  Preamble
 Press T to get on the track and press again to get off track
@@ -61,5 +60,5 @@ Pressing N will toggle Normals
 
 Pressing P will print information
 
-# Source for SkyBox Texture
+### Source for SkyBox Texture
 http://www.custommapmakers.org/skyboxes.php
