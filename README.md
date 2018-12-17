@@ -27,8 +27,9 @@
   
   Double-click Project1.exe. 
 
-### Software Used
-OpenGL and Microsoft Visual Studios C++.
+## Software Used
+-OpenGL
+-Microsoft Visual Studios C++.
 
 ##  Preamble
 Press T to get on the track and press again to get off track
