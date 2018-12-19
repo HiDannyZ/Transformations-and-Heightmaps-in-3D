@@ -24,7 +24,7 @@ The cubes are contained in a skybox: a cube with textures of ground,horizon, and
 
 ### HeightMap
 
-I rendered in a surface mesh to create a detailed terrain of mountains. It made the scene look less blend and more cool.
+I rendered in a surface mesh to create a detailed terrain of mountains. It made the scene look less bland and more cool.
 
 
 ### Transformations of the cube
