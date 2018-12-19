@@ -15,10 +15,19 @@
 
 ## Features
 
-- SkyBox
-- Texture on Cubes
-- HeightMap
-- Transformations of the cube through matrix manipulation 
+### SkyBox
+
+The cubes are contained in a skybox: a cube with textures of ground,horizon, and sky that fit together to appear as a seamless large environment. To give my skybox a more realistic effect of being infinitely far away, I had it unaffected by the translation of the camera. Thus, no matter how far I moved, the skybox will never get closer.
+
+### HeightMap
+
+I rendered in a surface mesh to create a detailed terrain of mountains. It made the scene look less blend and more cool.
+
+
+### Transformations of the cube
+
+This was done through matrix manipulation of each cube's model matrix.
+
 
 ## How to Run the Program:
   Download the Project_1.rar
