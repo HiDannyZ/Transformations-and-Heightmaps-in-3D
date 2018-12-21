@@ -1,3 +1,5 @@
+[![Maintenance](https://img.shields.io/badge/Developer-Danny_Zhu-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Maintenance](https://img.shields.io/badge/Microsoft_Visual_Studios-C++-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 # Transformations-and-Heightmaps-in-3D
 
 # Disclaimer!
